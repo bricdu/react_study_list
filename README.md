@@ -8,3 +8,6 @@
 
 # scala
 <https://plugins.jetbrains.com/plugin/download?rel=true&updateId=95530>
+
+# python
+<https://github.com/guzhenping/QQ-screenshot-made-by-wxPython>
