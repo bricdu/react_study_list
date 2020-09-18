@@ -4,3 +4,7 @@
 
 # 搜索引擎
 <https://github.com/wyh267/FalconEngine>
+
+
+# scala
+<https://plugins.jetbrains.com/plugin/download?rel=true&updateId=95530>
