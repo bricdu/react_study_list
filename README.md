@@ -11,3 +11,15 @@
 
 # python
 <https://github.com/guzhenping/QQ-screenshot-made-by-wxPython>
+
+# 物联网
+<https://github.com/jetlinks/jetlinks-community>
+
+# Java
+<https://github.com/jflyfox/jfinal_cms>
+
+# book
+<https://github.com/itmuch/docker-book>
+<https://www.github.com/eacdy/spring-cloud-book>
+<https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes>
+<https://github.com/fengdu78/deeplearning_ai_books>
