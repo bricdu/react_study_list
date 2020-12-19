@@ -11,6 +11,7 @@
 
 # python
 <https://github.com/guzhenping/QQ-screenshot-made-by-wxPython>
+<https://github.com/fandesfyf/Jamscreenshot>
 
 # 物联网
 <https://github.com/jetlinks/jetlinks-community>
